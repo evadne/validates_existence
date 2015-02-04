@@ -13,10 +13,10 @@ Gem::Specification.new do |s|
   s.description = "A library for validating model association existence."
   s.email = ["tanel.suurhans@perfectline.ee", "tarmo.lehtpuu@perfectline.ee"]
   s.extra_rdoc_files = [
-    "README.markdown"
+    "README.md"
   ]
   s.files = [
-    "README.markdown",
+    "README.md",
     "install.rb",
     "lib/validates_existence.rb",
     "rails/init.rb"
